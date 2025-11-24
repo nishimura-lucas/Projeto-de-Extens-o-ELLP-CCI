@@ -206,7 +206,7 @@ Verificação: A mensagem de sucesso "Oficina "Aula de Teste" criada com sucesso
 
 Prova: Vá ao pgAdmin e verifique a tabela oficinas. A "Aula de Teste" estará lá, e a coluna tutorId terá o ID do seu utilizador "Prof".
 
-👥 Equipa de Desenvolvimento (Grupo 1)
+👥 Equipe de Desenvolvimento (Grupo 1)
 
 José Victor Garcia Zacarias
 
